@@ -143,6 +143,8 @@ for target in targets:
 
 <img width="1181" height="521" alt="image" src="https://github.com/user-attachments/assets/b80b58bf-ddc9-44e3-b103-10e823edb7b6" />
 
+<img width="1168" height="426" alt="image" src="https://github.com/user-attachments/assets/797759dd-491f-471c-ba92-1adde06c0f68" />
+
 
 ## Result:
 The Random Forest model successfully predicted temperature, PM2.5 pollution, and solar radiation using weather sensor data with good accuracy. The system also generated next-step predictions and visual graphs comparing actual vs predicted values and showing feature importance.

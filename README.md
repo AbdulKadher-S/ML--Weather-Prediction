@@ -142,6 +142,7 @@ for target in targets:
 ## Output:
 
 <img width="1181" height="521" alt="image" src="https://github.com/user-attachments/assets/b80b58bf-ddc9-44e3-b103-10e823edb7b6" />
+<img width="1174" height="438" alt="image" src="https://github.com/user-attachments/assets/9ea7e256-2751-4ef2-96b7-8bcfb65a2f96" />
 
 <img width="1168" height="426" alt="image" src="https://github.com/user-attachments/assets/797759dd-491f-471c-ba92-1adde06c0f68" />
 
